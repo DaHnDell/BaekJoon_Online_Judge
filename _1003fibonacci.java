@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baekjoon1003fibonacci {
+public class _1003fibonacci {
     public static void main(String[] args) {
         // System.out.println();
         Scanner scanner = new Scanner(System.in);

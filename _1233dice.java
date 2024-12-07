@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class baekjoon1233dice {
+public class _1233dice {
     public static void main(String[] args) {
         int S1, S2, S3;
         Scanner scanner = new Scanner(System.in);

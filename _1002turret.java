@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class bakejoon1002turret {
+public class _1002turret {
 
     public static void main(String[] args) {
 
