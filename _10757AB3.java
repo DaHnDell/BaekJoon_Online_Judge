@@ -10,7 +10,7 @@ public class _10757AB3 {
         Scanner scan = new Scanner(System.in);
         
         try {
-            A = scan.nextBigInteger();
+            A = scan.nextBigInteger();  
             if(A.compareTo(C) == -1) {
                 scan.close();
                 return;

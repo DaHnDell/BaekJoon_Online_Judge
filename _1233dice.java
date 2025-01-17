@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class _1233Dice {
+//
     public static void main(String[] args) {
         int S1, S2, S3;
         Scanner scanner = new Scanner(System.in);
@@ -10,7 +11,7 @@ public class _1233Dice {
         while (S1 < 2 || S1 > 20) {
             S1 = scanner.nextInt();
         } 
-        
+        //
         S2 = scanner.nextInt();
         while (S2 < 2 || S2 > 20) {
             S2 = scanner.nextInt();

@@ -1,11 +1,12 @@
 import java.util.Scanner;
 
 public class _1003Fibonacci {
+//
     public static void main(String[] args) {
         // System.out.println();
         Scanner scanner = new Scanner(System.in);
     }
-
+    //
     public int fibonacci(int n) {
         if (n == 0) {
             System.out.println("0");
