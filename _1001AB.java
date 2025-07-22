@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class _1000AB {
+public class _1001AB {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     int A = 0;
@@ -13,7 +13,7 @@ public class _1000AB {
       B = scanner.nextInt();
     }
 
-    System.out.println(A + B);
+    System.out.println(A - B);
     scanner.close();
   }
 }
